@@ -1,0 +1,6 @@
+{
+  "name": "pekate-omie-proxy",
+  "version": "1.0.0",
+  "description": "Proxy intermediário para API do Omie — Pekatê Financeiro",
+  "private": true
+}
